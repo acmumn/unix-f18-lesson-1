@@ -1,0 +1,6 @@
+.*
+!.gitignore
+
+/tools/ls/ls
+
+*.o
